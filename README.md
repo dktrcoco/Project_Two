@@ -1,6 +1,4 @@
-# Project_Two
-
-Repo for Group 3 Project 2
+# GamingGladiator
 
 
 Video of App in Action: 
